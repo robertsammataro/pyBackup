@@ -1,18 +1,18 @@
-pyBackup v1.0 Pre-Release
-Lightweight Program to Back Up Your Files!
-Build Date: 13 October 2020
+pyBackup v1.0 Pre-Release  
+Lightweight Program to Back Up Your Files!  
+Build Date: 13 October 2020  
 
-Introduction:
+Introduction:  
 pyBackup is a Lightweight program that allows you to back up your documents
 any directory you choose!
 
-PRERELEASE NOTE:
+PRERELEASE NOTE:  
 - pyBackup is currently in development. Currently the software uses the
   command prompt for interfacing and ignores '.dat' '.ini' and '.drivedownload'
   files. These are developer-specific constraints for testing and will be
   removed upon release v1.0
 
-KNOWN ISSUES:
+KNOWN ISSUES:  
   - Windows Defender will automatically flag pyBackup.exe as a Trojan virus.
     Add an exception in Windows Defender to allow pyBackup to run or instead
     you may run the python script in the Python environment of your choice.
@@ -20,12 +20,11 @@ KNOWN ISSUES:
     ensure you have the necessary modules installed.
 
 
--------------------------------------------
-|  System Requirements:                   |
-|   - 2GB Memory                          |
-|   - Windows XP Service Pack 3 or Later  |
-|   - 8.5 MB Available Storage            |
--------------------------------------------
+
+System Requirements:                 
+- 2GB Memory                          
+- Windows XP Service Pack 3 or Later  
+- 8.5 MB Available Storage            
 
 
 Additional Software:
@@ -50,14 +49,14 @@ Connect to a Home Network:
     Network Drive'. Once this step is complete, you can begin your target
     directory with the letter you assigned to the network drive.
 
-  ########################
-  #   Specs for Nerds:   #
-  ########################
 
-  Written in Python 3.7.7
-  EXE compiled with PyInstaller v4.0
+Specs for Nerds:
 
 
-  (C) 2020 Robert Sammataro
-  robertsammataro@gmail.com
+  Written in Python 3.7.7  
+  EXE compiled with PyInstaller v4.0  
+
+
+  (C) 2020 Robert Sammataro  
+  robertsammataro@gmail.com  
   github.com/robertsammataro
